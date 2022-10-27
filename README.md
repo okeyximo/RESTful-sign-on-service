@@ -93,7 +93,7 @@ curl --location --request GET 'http://localhost:8081/api/v1/auth/login' \
 
 # Update Merchant 
 
-* Endpoint: ``
+* Endpoint: `http://localhost:8081/api/v1/update`
 
 ### Payload
 
