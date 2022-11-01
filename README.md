@@ -24,7 +24,7 @@ The result of this activity is that :
 
 ### Testing the API endpoints
 
-# Register Merchant
+### Register Merchant
 
 * Endpoint: `http://localhost:8081/api/v1/register`
 
@@ -93,7 +93,7 @@ curl --location --request GET 'http://localhost:8081/api/v1/auth/login' \
 
 # Update Merchant 
 
-* Endpoint: ``
+* Endpoint: `http://localhost:8081/api/v1/update`
 
 ### Payload
 
